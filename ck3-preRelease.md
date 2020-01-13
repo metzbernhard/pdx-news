@@ -132,3 +132,63 @@ Disaster für Francesco Sforza, kann ablehent werden => kann Rebellen oder Gegne
 * Armeen haben Nachschub dabei, dieser wird verbraucht, wenn sie in einer Provinz mit geringerem Unterstützungslimit als ihre Größe stehen => erst Verluste durch Zermürbung wenn Nachschub verbraucht
 * Auch wenn keine Zermürbung erlitten => geringer Nachschub Nachteil in Schlacht
 * Wird eine Grafschaft betreten, die nicht mit einer küste oder einem eigenen kontrollierten Gebiet angrenzt, führt zu einem starken Zermürbungshit. 
+
+## Entwicklung & Gebäude
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/dd4countyview-jpg.526746/)
+
+* Gebäude auf Baronie Level
+* Entwicklung/Kontrolle auf Grafschaft Level
+* Entwicklung: Kenngröße tech. Fortschritt & Infrastruktur der Grafschaftt, erhöht STeuern und Aufgebote, schaltet spezielle Aktionen Frei
+* Entwicklung breitet sich langsam von hoch entwickelten provinzen nach außen aus
+* Verwalter hat "Entwicklung erhöhen" Aktion, langsam
+* Kontrolle: Reduziert durch Belagerungen (Feinde/Rebellen) oder frisch erobert, kann durch Marschall reduziert werden
+* Meinung: Welche Meinung die Grafschaft von ihrem Herrscher hat, beeinflusst durch Religion, Kultur, lokale Machthaber
+  
+### Besitzungen
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/dd4holding-jpg.526745/)
+
+* Jede Grafschaft hat eine gegebene Anzahl an Slots für Baronien, teilweise ausgebaut. 
+* Drei Grundarten: Burg (Aufgebot/Verteidigung), Stadt(Stdäte, Entwicklung), Tempel (Mix Steuern/Aufgebot, erhöhen Kontrolle)
+
+### Gebäude
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/dd4buildings-jpg.526747/)
+
+* Abhängig vom Terrain
+* Erhöhen v.a. Steuern und/oder Aufgebote, zusätzliche Effekte wie erhöhte Befestigungen oder mehr Nachschublimit
+* Hauptstadtgebäude: Nur in Hauptstadt des De Jury Herzogtums, kann nur vom Herzog selbst gebaut werden
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/dd4duchycapitalbuildings-jpg.526744/)
+* Gibt auch diverse Sondergebäude um besondere historische Bauwerke der Vergangenheit und der Spielzeit darzustellen, die auch im Spiel an besonderen Stellen gebaut werden können, inklusive besonderer Boni und 3D Darstellung auf der Karte
+
+### Intrigen
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/ongoing-murder-scheme-usable-png.528420/)
+
+* Einfacheres System, etwas sicherere Ergebnisse, weniger bentöigte Agenten
+* Jeden Monat gibt es eine Chance auf Intrigenfortschritt, abhängig von der eigenen Intrigenkraft und der *gegnerischen* Intrigenverteidigung, abhängig von Skill, Spymaster, Modifikatoren und Agenten. Je näher die Agenten dem Ziel stehen und je höher deren Intrige, desto mehr Kraft fügen sie der Intrige hinzu
+* Nach zehn Fortschritten, gibt es einen Versuch, mit zwei Faktoren: Erfolgschance (ähnliche Modifikatoren wie Intrigenkraft) und Heimlichkeit (Chance entdeckt zu werden)
+* Planer selbst kann erst bei einem Versuch aufgedeckt werden, die Agenten können jederzeit erwischt werden => reduziert Erfolgschance deutlich!
+
+### Geheimnisse
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/hooks-and-secrets-usable-png.528422/)
+
+* Wissen über illegale oder ungern gesehenes Verhalten 
+* Weiß man ein Geheimnis anderer, kann man es veröffentlichen oder nutzen um einen "Hebel" [Hook], zu erhalten, z.B. Gefallen, Loyalität oder eben Geheimnisse
+* Hebel können genutzt werden, um einen Charakter zu einer Aktion zu zwingen (z.B. als Agent rekrutieren)
+* Hebel können auch feindliche Aktionen gegen einen selbst verhindern
+* schwache Hebel verschwinden nach Nutzung, starke Hebel haben einen Cooldown, Stärke abhängig von Quelle, die stärksten kommen von Erpressung mit wichtigen Geheimnissen
+
+![] (https://forum.paradoxplaza.com/forum/index.php?attachments/blackmail-over-incest-usable-png.528425/)
+
+### Pläne
+
+* Intrigensystem wird auch für normale Pläne genutzt, zum Beispiel Verführung, Beeinflussung
+* Es kann jeweils eine Intrige und ein Plan gleichzeitig durchgeführt werden, aber nicht gleichzeitig auf dieselbe Person
+
+## Diverses
+
+* Mali für zuviele Herzogstitel
+
