@@ -184,6 +184,8 @@ Ende erhöht Lebenserwartung (und damit auch Fruchtbarkeit)
 ![](https://forum.paradoxplaza.com/forum/index.php?attachments/dd4duchycapitalbuildings-jpg.526744/)
 * Gibt auch diverse Sondergebäude um besondere historische Bauwerke der Vergangenheit und der Spielzeit darzustellen, die auch im Spiel an besonderen Stellen gebaut werden können, inklusive besonderer Boni und 3D Darstellung auf der Karte
 
+## Spionage, Intrigen etc. 
+
 ### Intrigen
 
 ![](https://forum.paradoxplaza.com/forum/index.php?attachments/ongoing-murder-scheme-usable-png.528420/)
@@ -210,6 +212,13 @@ Ende erhöht Lebenserwartung (und damit auch Fruchtbarkeit)
 
 * Intrigensystem wird auch für normale Pläne genutzt, zum Beispiel Verführung, Beeinflussung
 * Es kann jeweils eine Intrige und ein Plan gleichzeitig durchgeführt werden, aber nicht gleichzeitig auf dieselbe Person
+
+### Verführung
+
+* Etwas komplizierter als CK2, hängt vor allem von den Vorlibeen des Zieles ab
+* Plankraft nicht nur von eigener Intrige, sondern von den involvierten Personen abhängig
+* Critical Failure => kann nie wieder versucht werden und öffentlich gemacht werden
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/seduction-rejection-png-png.541758/)
 
 ## Hof
 
@@ -311,6 +320,36 @@ Persönlichkeitstraits
 * Durch Erziehung in der Kindheit, wird eine Neigung zu einem Lifestyle geprägt => Boni auf Erfahrung sammeln
 * Wird ein Charakter grundbesitzend erhält er abhängig vom Alter Perks
 * Man kann alle Entscheidungen einmal im Leben zurücksetzen, verursacht Stress (dazu in einem anderen DD mehr)
+
+### Intrige Lifestyle
+
+* Drei Schwerpunkte:
+  * Betrügerei: Agent Akzeptieren +10, Intrige +3
+  * Versuchung: Fruchtbarkeit +25%, Attraktion-Meinung + 10, Verführung Planstärke +20%
+  * Einschüchterung: Intrige +2, Schrecken Anstieg +10%, Natürlicher Schrecken +20
+* Jeder Schwerpunkt gewährt bei Abschluss den enstpechenden Trait
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/intrigue-lifestyle-traits-png.541768/)
+
+#### Verführungsbaum
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/enticing-opportunity-tt-png.541744/)
+
+* Erhöht Plankraft, Attraktivität für geeignete Ziele, Fruchtbarkeit
+* Kann Attraktivitätsmali aufheben, Critic Failure ausschließen
+* Kann Geliebte weniger wahrscheinlich an Mörderplänen teilhaben lassen und sie sogar versuchen lassen, Spieler in Mordversuchen zu retten
+* Kann z.B. Inzest-Malus für Verführungspläne aufheben
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/subtle-desire-tt-png.541759/)
+
+* Ende: Verführer-Trait, erhöhte Intrige, Früchtbarkeit und Attraktivität
+
+#### Folterbaum
+
+![](https://forum.paradoxplaza.com/forum/index.php?attachments/torture-interaction-jpg.541762/)
+
+* Folter kann Vasallen einschüchtern oder Geheimnisse bringen
+* Meinungsmalus mit Familie, Pietätsmalus & Meinungsverlust Geistliche (außer Religion erlaubt Folter)
+* Folterbaum: Schrecken Anstieg +30%, Aufhebung Pietäts/Meinungsverlust Geistliche, 
 
 ## Diverses
 
